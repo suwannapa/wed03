@@ -1,0 +1,4 @@
+section div[id*="box"] {
+    color: blue;
+    font-style: italic;
+}

@@ -1,0 +1,4 @@
+section div[id$="box"] {
+    color: brown;
+    font-size: 16px;
+}
